@@ -1,0 +1,7 @@
+
+The project focuses on:
+
+1) Basic Control Structures (loops, conditionals)
+2) User input / output
+3) Random number generation
+4) Error Handling (e.g. invalid input)
